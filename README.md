@@ -1,1 +1,2 @@
 # prian.ru_parsing
+It was necessary on the Russian website ( https://prian.ru/company/ ) collect data about all companies (name, phone number, as well as information about representatives). Then save all the data to a table. Attached table file (also screenshots)
